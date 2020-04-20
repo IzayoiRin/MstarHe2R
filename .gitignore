@@ -1,7 +1,7 @@
 # costume filters
 .idea/
 data/*/
-persistence_models/
+persistence_models/*/
 *.log
 
 
